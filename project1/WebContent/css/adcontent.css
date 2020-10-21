@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+
+         .tnb > ul > li{float: left; margin-left: 20px; }
+         .tnb > ul > button{margin-left: 500px;}
+         .tnb li a {color: black; font-weight: 800; width: 100%; height: 100%; display: inline-block;}
+         .tnb li a:hover {background-color: cornflowerblue; color: white;}
+         .content { clear: both; width: 100%;}
+         .content div { float: left;}
+
+         .left { width: 10%; height: 100vh; background-color: cornflowerblue;}
+         .left li a { color: white; display: block; margin: 20px; font-weight: 800;}
+         .left li a:hover {background-color: royalblue;}
+         .right { width: 89%; border: 1px solid #333; height: 100vh;}
+
+         .rnb{width: 100%; height: 30px; float: left; border-bottom: 1px solid #333;}
+         .rnb a{color: black; font-weight: 800; padding-left: 20px;}
+         .rnb a:nth-child(3){color:  cornflowerblue;}
+         .rnb a:first-child::after{content: ">"; margin-left: 20px;}
+         .rnb a:nth-child(2)::after{content: ">";margin-left: 20px;}
+
+         .rnb ul li{float: left; width: 150px; border: 1px solid #333; text-align: center; height: 50px; line-height: 50px; font-weight: 800; cursor: pointer;}
+         .rnb ul li:hover {background-color: cornflowerblue; color: white;}
+         .rnb ul li:first-child {background-color: cornflowerblue; color: white;}
+         .cnb {clear: both; width: 100%; margin-top: 100px;}
+         .cnb p { margin-left: 50px; color: royalblue; font-weight: 800;}
+         .r_bot {clear: both; width: 100%; height: 500px; margin-top: 130px; margin-left: 40px;}
+         .r_bot button {border: none; width: 100px; height: 30px; margin-bottom: 10px; background-color: cornflowerblue; color: white;}
+         .r_bot button:hover {background-color: royalblue;}
+         .r_bot table {border: 1px solid #333; width: 90%;}
+         .r_bot table th {border: 1px solid #333; background-color: cornflowerblue; color: white;}
+         .r_bot table td {border: 1px solid #333;}

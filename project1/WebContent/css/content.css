@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+	 	.vs{clear: both; width: 100%; overflow-x: hidden;}
+        .ban{width: 400%;}
+        .ban li{width: 25%; float: left;}
+        
+        .page {clear: both;}  
+        .page_tit_l,
+        .page_tit_s { padding-top: 20px; text-align: center;}
+        .lst1 { clear: both; width: 1280px; height: 500px; margin: 0 auto;}
+        .lst1 li {  float: left; height: 500px; width: 320px; margin-left: 20px; overflow:hidden;}
+        .lst1 li:first-child{margin-left: 150px;}
+        .lst1 li a {display:inline-block;opacity: 0.85;transition: 0.8s;}
+        .lst1 li a:hover {opacity: 1;}
+        .lst1 li a img {display: block;width: 320px;margin: 20px auto; transition: 0.5s;}
+        .lst1 li a:hover img {width: 320px;margin: 0 auto;}
+
+                .vs2{clear: both; width: 100%; overflow-x: hidden;}
+                .ban2{width: 400%;}
+                .ban2 li{width: 25%; float: left;}
+
+        .page2 {clear: both;}  
+        .page_tit_l2,
+        .page_tit_s2 { margin-top: 20px; text-align: center;}
+        .lst2 {clear: both; width: 1280px; height: 700px; margin: 0 auto; }
+        .lst2 li { float: left; height: 335px; width: 270px; margin-right:25px; margin-left: 25px; overflow:hidden;}
+        .lst2 li a {display:inline-block;opacity: 0.85;transition: 0.8s;}
+        .lst2 li a:hover {opacity: 1;}
+        .lst2 li a img {display: block;width: 270px; margin: 20px auto; transition: 0.5s;}
+        .lst2 li a:hover img {width: 270px;margin: 0 auto;}

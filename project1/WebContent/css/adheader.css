@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+  body, html { width: 100%; min-width:1280px; font-family: 'Noto Sans KR', sans-serif; margin: 0; }
+         ul { list-style: none; }
+         a { text-decoration: none; }
+         .wrap{width: 100%;}
+         .hd{clear: both; width: 100%;}
+         .gnb{clear: both; width:100%; margin: 0 auto;}
+         .gnb a{float: left; display: block; width: 600px;}
+         .tnb ul{float: left; }
+         .bt {border: none; width: 150px; height: 30px; background-color: cornflowerblue; color: white; font-weight: 800;}
+         .bt:hover {background-color: royalblue;}
