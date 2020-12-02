@@ -1,0 +1,11 @@
+@charset "utf-8";
+ 
+ 	*  {margin: 0; padding: 0;}
+        body, html {width: 100%; min-width: 1280px; font-family: 'Noto Sans KR', sans-serif;}
+        a {text-decoration: none;}
+        ul { list-style: none;}
+
+		table{margin-left:auto;margin-right:auto;border:3px solid skyblue;}
+		td{border:1px solid skyblue}
+		#title{background-color:skyblue}
+		.content{clear: both; width:1280px; height:600px; margin:0 auto; text-align:center;}
