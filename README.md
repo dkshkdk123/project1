@@ -29,7 +29,7 @@
 # 1. 메인화면
 
 <div>  
-  <img src = "./img/메인화면.png" width="1000px" height="600px">
+  <img src = "./img/메인화면.PNG" width="1000px" height="600px">
 </div>
 
 ## 설명 
