@@ -1,19 +1,3 @@
-- 개발자 : 김병석
-
-- 개발기간 :  2주  -  2020년 9월
-
-- 프레임워크 : 모델2 방식
-
-- 개발 툴 : eclipse
-
-- CRUD 작업 :  4개
- 
-- 디자인 :  일반유저화면(HTML,CSS,JAVASCRIPT)
-
-- 스킬 : java, jsp, html, css, javascript
-
-
-
 # 1. 메인화면
 
 <div>  
